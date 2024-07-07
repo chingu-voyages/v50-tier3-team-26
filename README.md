@@ -35,6 +35,7 @@ your repo access and to practice PR'ing with your team *before* you start
 coding!
 
 - Alana Edwards: [GitHub](https://github.com/prettyalana)
+- Jimmy Pacheco : [Github](https://github.com/jbpach)
 - Teammate name #2: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
 
    ...
