@@ -36,7 +36,7 @@ coding!
 
 - Alana Edwards: [GitHub](https://github.com/prettyalana)
 - Jimmy Pacheco : [Github](https://github.com/jbpach)
-- Teammate name #2: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
+- Rika Miyata: [GitHub](https://github.com/Tayrika)
 
    ...
 - Teammate name #n: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
