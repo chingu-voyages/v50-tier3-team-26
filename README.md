@@ -38,5 +38,3 @@ coding!
 - Jimmy Pacheco : [Github](https://github.com/jbpach)
 - Rika Miyata: [GitHub](https://github.com/Tayrika)
 - José Bonilla: [GitHub](http://github.com/jy-bonilla) / [LinkedIn](http://linkedin.com/in/bonillacodes)
-  ...
-- Teammate name #n: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
