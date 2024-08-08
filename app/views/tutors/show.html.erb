@@ -1,0 +1,9 @@
+<div>
+  <h1><%= @tutor.name %></h1>
+  <p>Email: <%= @tutor.email %></p>
+  <p>Tech Stack: <%= @tutor.tech_stack %></p>
+  <p>Location: <%= @tutor.location %></p>
+  <%= image_tag @tutor.image_url if @tutor.image_url.present? %>
+  <%= link_to 'Edit', edit_tutor_path(@tutor) %>
+  <%= link_to 'Back', root_path %>
+</div>

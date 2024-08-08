@@ -1,4 +1,9 @@
 Rails.application.routes.draw do
+  get "tutors/new"
+  get "tutors/create"
+  get "tutors/edit"
+  get "tutors/update"
+  get "tutors/show"
   resources :lessons
   devise_for :admins, skip: [:registrations]
   devise_for :users
@@ -18,6 +23,8 @@ Rails.application.routes.draw do
   # Render dynamic PWA files from app/views/pwa/*
   get "service-worker" => "rails/pwa#service_worker", as: :pwa_service_worker
   get "manifest" => "rails/pwa#manifest", as: :pwa_manifest
+
+  resources :tutors, only: [:new, :create, :edit, :update, :show]
 
   # Defines the root path route ("/")
   root "courses#index"
