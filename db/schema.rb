@@ -71,6 +71,9 @@ ActiveRecord::Schema[7.2].define(version: 2024_08_08_082118) do
     t.string "description"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.boolean "paid"
+    t.string "stripe_price_id"
+    t.text "premium_description"
   end
 
   create_table "lessons", force: :cascade do |t|
